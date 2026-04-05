@@ -30,7 +30,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SNEHANGSHU2510&theme=radical&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SNEHANGSHU2510&theme=tokyonight&no-frame=true&margin-w=10&v=1)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
