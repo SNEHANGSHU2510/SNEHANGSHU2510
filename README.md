@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>• JobIn App (Job Application Management System)  <br>• Mechanical Arm Design & Construction for Mars Rover  <br>• Computer Vision Projects (Lane Detection, AI-based Systems)  <br><br>👯 I’m looking to collaborate on  <br>• Computer Vision & AI Projects  <br>• Robotics & Hardware Integration  <br>• Hackathons & Innovative Tech Builds  <br><br>🤝 I’m looking for help with  <br>• Advanced Computer Vision & Deep Learning  <br>• Real-time AI + Hardware Integration  <br>• Optimization of ML Models  <br><br>🌱 I’m currently learning  <br>• Data Structures & Algorithms (DSA)  <br>• Advanced Machine Learning  <br>• Full Stack Development  <br><br>💬 Ask me about  <br>• Java (OOP, Swing Applications)  <br>• Python (AI/ML, OpenCV)  <br>• SolidWorks (Mechanical Design)  <br>• Hardware Integration (Sensors, Motors, Embedded Systems)  <br><br>⚡ Fun fact  <br>• I build projects that combine software + hardware to solve real-world problems 🚀  
+• 🔭 I'm currently working on JobIn App — a smart job application management system  
+• 🤖 Building Computer Vision systems (Lane Detection, AI-driven control)  
+• 🛰️ Designing & constructing a Mechanical Arm for a Mars Rover project  
+
+• 👯 I'm looking to collaborate on Computer Vision, AI & Robotics projects  
+• 🤝 I'm looking for help with advanced Deep Learning & real-time AI + hardware integration  
+
+• 🌱 I'm currently learning Data Structures & Algorithms, Advanced ML & Full Stack Development  
+
+• 💬 Ask me about Java (OOP, Swing), Python (AI/ML, OpenCV), SolidWorks & Hardware Integration  
+
+• ⚡ Fun fact: I build systems where software meets real-world hardware to solve actual problems 🚀  
 
 
 ## 🌐 Socials:
